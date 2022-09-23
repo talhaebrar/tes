@@ -92,5 +92,6 @@
     background-color: rgba(55, 248, 55, 0.438);
     padding: 8px 20px;
     border: 2px solid black;
+    cursor: pointer;
     
 }
